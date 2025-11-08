@@ -1,0 +1,5 @@
+{
+  "name": "Finnish Waste Sorter AI",
+  "description": "Upload a photo of your waste, and this AI-powered app will tell you how to sort it according to Finland's recycling rules, using the latest information from Google Search.",
+  "requestFramePermissions": []
+}
